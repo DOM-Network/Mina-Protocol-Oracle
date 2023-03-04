@@ -1,4 +1,4 @@
-# Mina zkApp: Datum
+# Mina zkApp: DOM Network
 
 This template uses TypeScript.
 
